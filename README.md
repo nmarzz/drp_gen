@@ -1,1 +1,1 @@
-# drp_gen
+# Generative Diffusion Models 
